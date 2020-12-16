@@ -20,4 +20,4 @@ SnackBarMaker.get(ProfileAct.this)
   .show(v);
 ```
 ## Output
-[![Watch the video](Output_Example.mp4)](https://github.com/emilianscheel/SnackBarMaker/blob/main/SnackBar_Output_Example.mp4)
+[![Watch the video](https://github.com/emilianscheel/SnackBarMaker/blob/main/SnackBar_Output_Example.mp4)](https://github.com/emilianscheel/SnackBarMaker/blob/main/SnackBar_Output_Example.mp4)
