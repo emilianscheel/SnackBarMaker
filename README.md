@@ -6,7 +6,7 @@ Der SnackBarMaker kann genutzt werden für schnelle benutzerdefinierte SnackBars
 SnackBarMaker.get(ProfileAct.this)
   .setTextColor("#FFFFFF")
   .setBackgroundColor("#000000")
-  .setMessage("Test message")
+  .setMessage("Hello World!")
   .setHowLongInSeconds(3)
   .setIconLeftDrawable(R.drawable.ic_info_white_24)
   .setIconPaddingDp(8)
