@@ -1,5 +1,5 @@
 # SnackBarMaker
-Der SnackBarMaker kann genutzt werden für schnelle benutzerdefinierte SnackBars.
+Der SnackBarMaker kann genutzt werden für schnelle benutzerdefinierte SnackBars. Einfach den SnackBarMaker-Code kopieren.
 
 ## How to use
 
