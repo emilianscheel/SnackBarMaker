@@ -1,6 +1,7 @@
 # SnackBarMaker
 Der SnackBarMaker kann genutzt werden für schnelle benutzerdefinierte SnackBars.
-## How to use it
+
+## How to use
 
 ```JAVA
 SnackBarMaker.get(ProfileAct.this)
@@ -19,5 +20,3 @@ SnackBarMaker.get(ProfileAct.this)
      })
   .show(v);
 ```
-## Output
-[![Watch the video](https://github.com/emilianscheel/SnackBarMaker/blob/main/SnackBar_Output_Example.gif)](https://github.com/emilianscheel/SnackBarMaker/blob/main/SnackBar_Output_Example.gif)
